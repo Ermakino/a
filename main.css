@@ -1,0 +1,31 @@
+@font-face {
+  font-family:"Star Jedi";
+  src: url("font/Starjedi.ttf") format("truetype");
+}
+
+* {
+
+text-align: center;
+vertical-align: middle;
+font-size: 150%;
+font-family:"Star jedi";
+text-shadow: -2px 0 yellow, 0 2px yellow, 2px 0 yellow, 0 -2px yellow;
+font-family:"Star jedi""; 
+color: yellow;
+letter-spacing: 5px;
+
+}
+body  {
+  background-image: url("immagini/Galassia.png");
+  background-color: #cccccc;
+}
+
+#link {
+font-size: 70%
+
+}
+
+a:link {color: black; }
+a:visited {color: black; }
+a:hover {color: black; }
+a:active {color: black; }
